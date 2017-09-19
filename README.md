@@ -34,7 +34,7 @@ SOFTWARE.
 
 # Other Licenses
 * See the licenses folder in this directory
-<img src="https://github.com/Ljhandnds123/home/blob/master/pic/我的home.png" width="800" height="619"/>
-<img src="https://github.com/Ljhandnds123/home/blob/master/pic/主页home.png" width="800" height="619"/>
+<img src="https://github.com/Ljhandnds123/home/blob/master/pic/我的home.png" width="950" height="619"/>
+<img src="https://github.com/Ljhandnds123/home/blob/master/pic/主页home.png" width="950" height="619"/>
 <img src="https://github.com/Ljhandnds123/home/blob/master/pic/响应式.png" width="300" height="619"/>
 
